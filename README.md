@@ -4,4 +4,4 @@ Jogo Flappy Bird desenvolvido com a linguagem de programação Java. Inicialment
 # Baixe o jogo e jogue ele no seu PC!
 ## 1- Entre na pasta "dist" e clique no arquivo "flappy-bird-game.jar"
 ## 2- Ao clicar você poderá baixar o jogo apertando o botão "download" à direita
-## 3- Abra o arquivo executável baixado e boa diversão!!
+## 3- Abra o arquivo executável e boa diversão!!
