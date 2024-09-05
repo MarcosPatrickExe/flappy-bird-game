@@ -1,6 +1,6 @@
 package playGame;
 import model.IChao;
-import playGame.FlappyBird.GameState;
+import playGame.FlappyBird.GameState; 
 
 /**
  * @author Patrick   
