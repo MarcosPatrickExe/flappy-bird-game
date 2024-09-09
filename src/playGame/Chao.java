@@ -16,7 +16,7 @@ class Chao implements IChao{
             t.imagem(URLarquivo, 292, 0, 308, 112, 0, 0-this.X, Chao.Y);
             t.imagem(URLarquivo, 292, 0, 308, 112, 0, 308-this.X, Chao.Y);// 308 é o valor da largura do chão. Desenhando o 'segundo' chão a partir do eixo X, em 308.
             t.imagem(URLarquivo, 292, 0, 308, 112, 0, (308*2)-this.X, Chao.Y);
-    }
+    } 
     
     @Override
     public void atualiza(float x){
