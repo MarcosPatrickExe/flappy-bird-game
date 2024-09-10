@@ -10,7 +10,7 @@ import java.util.Random;
 
 /*
  * @author Patrick
- */
+ */ 
 
 public class FlappyBird extends Jogo{//classe de configuração do layout e velocidade dos canos e do chão do jogo
     
