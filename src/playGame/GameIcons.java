@@ -28,7 +28,7 @@ class GameIcons {//classe que desenha os ícones e botões do jogo
         GameIcons.alreadyRun = true;
         Motor.OK.setVisible(true);//tornando o botão "OK" visível
     }
-    
+     
     //---------------------------------------------------------------------------------------------------------------------
     
     private void exibirSaldoPontos(int pontos, Tela t, String urlFoto, double posX, double posY){//função executada quando usuário perde
