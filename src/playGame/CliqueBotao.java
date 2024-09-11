@@ -24,7 +24,7 @@ import playGame.FlappyBird.GameState;
      
     static protected void inserirDimensoesImagem(int larg, int alt, String urlImg){
         CliqueBotao.largura = larg;
-        CliqueBotao.altura = alt;
+        CliqueBotao.altura = alt; 
         CliqueBotao.urlImagem = urlImg;
     }
     
