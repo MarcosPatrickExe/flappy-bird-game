@@ -8,7 +8,7 @@ import playGame.FlappyBird.GameState;
  * @author Patrick
  */
 
-public class Passaro implements IPassaro{
+public class Passaro implements IPassaro{ 
     double x, y;
     double vy = 0;//velocidade vertical
     private int angulacao = 0;
