@@ -9,7 +9,7 @@ import playGame.FlappyBird.GameState;
 /**
  * @author Patrick
  */
-public interface ICano {
+public interface ICano { 
     
     int ENTRADA = 120;
     
