@@ -2,7 +2,7 @@ package model;
 import playGame.Tela;
 
 /**
- * @author Patrick 
+ * @author Patrick  
  */
 public interface IPassaro {
     double G = 1000;
