@@ -5,7 +5,7 @@ import playGame.Tela;
 /**
  * @author Patrick
  */
-public interface IChao { 
+public interface IChao {  
     
     void desenhar(Tela t, String URLarquivo);
 
