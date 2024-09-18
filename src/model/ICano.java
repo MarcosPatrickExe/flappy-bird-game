@@ -11,7 +11,7 @@ import playGame.FlappyBird.GameState;
  */
 public interface ICano {  
     
-    int ENTRADA = 120;
+    int ENTRADA = 120; 
     
     static Cano criarCano(double largura, double altura, double velocidadeCano){
         return new Cano(largura+20.0, altura, -velocidadeCano);
