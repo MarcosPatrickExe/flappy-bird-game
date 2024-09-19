@@ -71,7 +71,7 @@ class Motor{
         }catch(IOException e){
             JOptionPane.showMessageDialog(null, null, "Erro ao tentar ler a imagem dos botões!!!", JOptionPane.ERROR_MESSAGE);
         }
-        
+         
         //ADICIONANDO OS BOTÕES AO JFRAME
         panel.add(Motor.start);
         panel.add(Motor.OK);
