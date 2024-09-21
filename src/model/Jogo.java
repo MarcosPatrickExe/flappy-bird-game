@@ -1,5 +1,5 @@
 package model;
-
+ 
 import playGame.Tela;
 
 //CLASSE ABSTRATA QUE SERVIRÁ DE REFERÊNCIA PARA A CLASSE PRINCIPAL DE EXECUÇÃO DO JOGO, A CLASSE "FlappyBird"
