@@ -15,7 +15,7 @@ public class Cano implements ICano{
     public double x, y;
     public final double vxCano;//velocidade do cano
     public static final int ENTRADA = 120;//tamanho do espaço entre os canos
-    private static Random gerarValor = new Random();
+    private static Random gerarValor = new Random(); 
     
     public Hitbox boxCanoCima;
     public Hitbox boxCanoBaixo;
