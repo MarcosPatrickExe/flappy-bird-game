@@ -28,7 +28,7 @@ public class Cano implements ICano{
         this.boxCanoCima = new Hitbox(x, 0, x+52.0, y+270.0);// X, Y, largura, altura da hitbox do cano de cima
         this.boxCanoBaixo = new Hitbox(x, y+270+Cano.ENTRADA, x+52, y+270+Cano.ENTRADA+242);// X, Y, largura, altura da hitbox do cano de baixo
     }
-    
+     
     
     static Cano criarCano(double largura, double altura, double velocidadeCano){
          return ICano.criarCano(largura, -230+(gerarValor.nextInt(230)), velocidadeCano);//acessando métoda estático da classe pai "ICano"
