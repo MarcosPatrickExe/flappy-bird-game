@@ -1,6 +1,6 @@
 package model;
 
-public class Timer {
+public class Timer { 
     Acao acao;
     final double limite; 
     final boolean repete;
