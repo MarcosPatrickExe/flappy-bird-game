@@ -8,7 +8,7 @@ import java.util.HashMap;
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.File;
-import java.awt.geom.AffineTransform;
+import java.awt.geom.AffineTransform; 
 import java.io.IOException;
 import model.Cor;
 import model.Hitbox;
