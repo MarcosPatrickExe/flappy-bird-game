@@ -11,7 +11,7 @@ public class Cor{
     public int b;
     
     private static HashMap<Integer, Cor> cores = new HashMap<Integer, Cor>();
-    
+     
     /*
      * Cria uma cor dados os componentes entre 0 e 255
      */
