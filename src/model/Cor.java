@@ -3,7 +3,7 @@ package model;
 import java.util.HashMap;
  
 /**
- * Cores em RGB
+ * Cores em RGB 
  */
 public class Cor{
     public int r;
