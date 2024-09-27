@@ -22,7 +22,7 @@ public interface ICano {
          //VERIFICANDO SE TEM ALGUM CANO PARA FORA DA TELA. SE HOUVER ELE SERÁ APAGADO
         if(canos.size()>0 && canos.get(0).x <= -52){//VERIFICANDO SE TEM ALGUM CANO PARA FORA DA TELA. SE HOUVER ELE SERÁ APAGADO
              canos.remove(canos.get(0));
-        }
+        } 
      
         
         if(FlappyBird.estadoJogo == GameState.JOGANDO){
