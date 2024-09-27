@@ -2,7 +2,7 @@ package model;
 import java.util.ArrayList;
 import playGame.Cano;
 import playGame.Tela;
-import java.lang.String; 
+import java.lang.String;  
 import playGame.FlappyBird;  
 import playGame.FlappyBird.GameState; 
  
