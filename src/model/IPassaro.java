@@ -1,6 +1,6 @@
 package model;
 import playGame.Tela;
-
+ 
 /**
  * @author Patrick  
  */ 
