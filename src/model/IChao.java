@@ -10,4 +10,4 @@ public interface IChao {
     void desenhar(Tela t, String URLarquivo);
 
     void atualiza(float x);  
-}
+} 
