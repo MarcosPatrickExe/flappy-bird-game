@@ -4,7 +4,7 @@ import playGame.FlappyBird;
  
 public class Hitbox {
     
-    // Canto superior esquerdo (x0, y0) e
+    // Canto superior esquerdo (x0, y0) e 
     // inferior direito (x1, y1)
     public double x0, y0, x1, y1;
  
