@@ -25,7 +25,7 @@ public class Hitbox {
         y1 = y0+24.0;
     }
     
-    
+     
     public int intersecao(Hitbox obstaculo) {
 
         
