@@ -22,7 +22,7 @@ class GameIcons {//classe que desenha os ícones e botões do jogo
             
             FlappyBird.maxPts = GameIcons.totalPontosAtual;//Novo recorde!
             GameIcons.exibirIconeNew = true;
-            
+             
         }else{ GameIcons.exibirIconeNew = false; }
         
         GameIcons.alreadyRun = true;
