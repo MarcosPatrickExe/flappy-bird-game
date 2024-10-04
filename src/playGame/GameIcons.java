@@ -11,7 +11,7 @@ class GameIcons {//classe que desenha os ícones e botões do jogo
     static int pontosD=0; //dezenas
     static boolean exibirIconeNew = false;//Propriedade que define se o ícone "new" (quando há um novo recorde) irá ser renderizado ou não
     static boolean alreadyRun = false;
-    static int totalPontosAtual=0;
+    static int totalPontosAtual=0; 
     
     //---------------------------------------------------------------------------------------------------------------------
    
