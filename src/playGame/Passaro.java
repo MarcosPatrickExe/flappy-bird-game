@@ -3,7 +3,7 @@ import model.Hitbox;
 import playGame.Tela;
 import model.IPassaro;
 import playGame.FlappyBird.GameState;
-
+ 
 /**
  * @author Patrick
  */
