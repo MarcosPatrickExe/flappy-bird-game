@@ -12,7 +12,7 @@ import javax.swing.SwingConstants;
 import playGame.FlappyBird.GameState;
 
 /** 
- * @author Patrick
+ * @author Patrick 
  */
 
 //Botao is not abstract and does not override abstract method mouseExited() in MouseLitener
