@@ -1,7 +1,7 @@
 package model;
  
 import playGame.FlappyBird;
- 
+  
 public class Hitbox {
     
     // Canto superior esquerdo (x0, y0) e 
