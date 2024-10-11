@@ -25,7 +25,7 @@ public class Passaro implements IPassaro{
         
         this.boxPassaro = new Hitbox(x, y, x+34, y+24);
     }
-    
+     
     
     @Override
     public void atualiza(double dt){
