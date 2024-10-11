@@ -1,5 +1,5 @@
 package playGame;
-import model.Hitbox;
+import model.Hitbox; 
 import playGame.Tela;
 import model.IPassaro;
 import playGame.FlappyBird.GameState;
