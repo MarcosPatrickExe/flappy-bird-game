@@ -6,7 +6,7 @@ import playGame.FlappyBird.GameState;
  
 /**
  * @author Patrick
- */
+ */ 
  
 public class Passaro implements IPassaro{ 
     double x, y;
