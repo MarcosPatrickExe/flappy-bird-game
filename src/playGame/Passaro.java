@@ -21,7 +21,7 @@ public class Passaro implements IPassaro{
     
     Passaro(double x, double y){
         this.x = x;
-        this.y = y;
+        this.y = y; 
         
         this.boxPassaro = new Hitbox(x, y, x+34, y+24);
     }
