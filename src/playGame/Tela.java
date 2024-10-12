@@ -21,7 +21,7 @@ import playGame.Cano;
 public class Tela{
     Graphics2D g;
     
-    public static HashMap<String, BufferedImage> sprites = new HashMap<>();
+    public static HashMap<String, BufferedImage> sprites = new HashMap<>(); 
     
     public Tela(Graphics2D g) {
         this.g = g;
