@@ -31,7 +31,7 @@ public class Tela{
     void triangulo(int x1, int y1, int x2, int y2, int x3, int y3, Cor cor) {
         g.setColor(new Color(cor.r, cor.g, cor.b));
         g.fillPolygon(new int[] { x1, x2, x3 }, new int[] { y1, y2, y3 }, 3);
-    }
+    } 
 
     void triangulo(double x1, double y1, double x2, double y2, double x3, double y3, Cor cor) {
         triangulo((int)Math.round(x1),
