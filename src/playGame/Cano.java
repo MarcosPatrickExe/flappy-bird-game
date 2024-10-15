@@ -18,7 +18,7 @@ public class Cano implements ICano{
     private static Random gerarValor = new Random(); 
     
     public Hitbox boxCanoCima;
-    public Hitbox boxCanoBaixo;
+    public Hitbox boxCanoBaixo; 
     
     public Cano(double x, double y, double vCano){
         this.x = x;
