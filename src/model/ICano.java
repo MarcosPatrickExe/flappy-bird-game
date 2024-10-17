@@ -37,7 +37,7 @@ public interface ICano {
                  can.boxCanoBaixo.moverCano(can.x);
                  
                  
-                 if(can.boxCanoCima.x0 >= 21.0 && can.boxCanoCima.x0 <= 25.0)
+                 if(can.boxCanoCima.x0 >= 21.0 && can.boxCanoCima.x0 <= 25.0) 
                      ++FlappyBird.contadorPontos;
             }
         }
