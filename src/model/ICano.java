@@ -34,7 +34,7 @@ public interface ICano {
                  //acelerando os canos: V = Vo + a*t;
 
                  can.boxCanoCima.moverCano(can.x);
-                 can.boxCanoBaixo.moverCano(can.x);
+                 can.boxCanoBaixo.moverCano(can.x); 
                  
                  
                  if(can.boxCanoCima.x0 >= 21.0 && can.boxCanoCima.x0 <= 25.0) 
