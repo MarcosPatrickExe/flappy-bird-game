@@ -1,5 +1,5 @@
 package playGame;
- 
+  
 import model.Acao;
 import model.Jogo;
 import model.Timer;
