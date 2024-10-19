@@ -9,6 +9,6 @@ public interface IPassaro {
     double FLAP = -350;
     
     void atualiza(double dt);
-    void flap();
+    void flap(); 
     void desenhar(Tela tela, String urlImagem);
 }
