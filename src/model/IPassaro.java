@@ -4,7 +4,7 @@ import playGame.Tela;
 /**
  * @author Patrick  
  */ 
-public interface IPassaro {
+public interface IPassaro { 
     double G = 1000;
     double FLAP = -350;
     
