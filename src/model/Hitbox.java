@@ -30,7 +30,7 @@ public class Hitbox {
 
         
         if( this.y1 < obstaculo.y0 ||
-            this.y0 > obstaculo.y1 ||
+            this.y0 > obstaculo.y1 || 
             this.x1 < obstaculo.x0 ||
             this.x0 > obstaculo.x1){
           // System.out.println("Não houve colisão");
