@@ -12,7 +12,7 @@ public class Hitbox {
         this.x0 = x0;
         this.x1 = x1;
         this.y0 = y0;  
-        this.y1 = y1; 
+        this.y1 = y1;  
     }
     
     public void moverCano(double x0) {//movendo a hitbox dos canos (de cima e baixo)
