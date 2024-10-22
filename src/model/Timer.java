@@ -1,7 +1,7 @@
 package model;
 
 public class Timer { 
-    Acao acao; 
+    Acao acao;  
     final double limite;  
     final boolean repete;
     double tempo = 0.0; 
