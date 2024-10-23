@@ -38,7 +38,7 @@ class GameIcons {//classe que desenha os ícones e botões do jogo
         if( digitosNumMax.length == 3){
                 desenharNumeros(t, urlFoto, posX-15, posY, Integer.parseInt( digitosNumMax[0]) , false);//centenas
                 desenharNumeros(t, urlFoto, posX, posY, Integer.parseInt( digitosNumMax[1]), false);//dezenas
-                desenharNumeros(t, urlFoto, posX+15, posY, Integer.parseInt( digitosNumMax[2]), true);//unidades
+                desenharNumeros(t, urlFoto, posX+15, posY, Integer.parseInt( digitosNumMax[2]), true);//unidades 
                                                        //getDigitN(pontos, 3)
                 
         }else if( digitosNumMax.length == 2){//verificando se o numero tem duas casa decimais
