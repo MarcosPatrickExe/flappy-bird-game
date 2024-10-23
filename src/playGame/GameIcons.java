@@ -17,7 +17,7 @@ class GameIcons {//classe que desenha os ícones e botões do jogo
    
     private static void runOnlyOnceTime(){
         GameIcons.totalPontosAtual = ((GameIcons.pontosC*100) + (GameIcons.pontosD*10) + FlappyBird.contadorPontos);
-        
+         
         if( GameIcons.totalPontosAtual > FlappyBird.maxPts ){
             
             FlappyBird.maxPts = GameIcons.totalPontosAtual;//Novo recorde!
