@@ -6,7 +6,7 @@ import model.Hitbox;
 import playGame.Cano; 
 import model.ICano;
 
-/* 
+/*  
  * @author Patrick
  */
 
