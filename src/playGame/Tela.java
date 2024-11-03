@@ -2,7 +2,7 @@ package playGame;
 
 import playGame.Cano;
 import java.awt.Color;
-import java.awt.Font;
+import java.awt.Font; 
 import java.awt.Graphics2D;
 import java.util.HashMap;
 import javax.imageio.ImageIO;
