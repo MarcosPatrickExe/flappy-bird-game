@@ -35,7 +35,7 @@ import javax.swing.JOptionPane;
  * 
  * Motor do jogo, gerencia a parte gráfica e os eventos de botão, mouse e ActionPerformed
  * 
- */ 
+ */  
 
 //------------------------------ INICIO DO CONSTRUTOR ------------------------------------------
 class Motor{
