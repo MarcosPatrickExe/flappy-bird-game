@@ -54,7 +54,7 @@ class Motor{
     public Motor(FlappyBird j) {//o objeto "j" do tipo "Jogo" ou também o tipo "FlappyBird" vem da classe-filha "FlappyBird" e classe-pai "jogo"
         this.jogo = j;
         Canvas canvas = new Canvas();
-        JFrame container = new JFrame(jogo.getTitulo());
+        JFrame container = new JFrame(jogo.getTitulo()); 
         JPanel panel = new JPanel(); //(JPanel) container.getContentPane();  JPanel panel = new JPanel(); //(JPanel) container.getContentPane(); 
         
         //------------------------------------
