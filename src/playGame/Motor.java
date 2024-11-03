@@ -30,7 +30,7 @@ import playGame.FlappyBird.GameState;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
 
-/**
+/** 
  * @author Patrick
  * 
  * Motor do jogo, gerencia a parte gráfica e os eventos de botão, mouse e ActionPerformed
