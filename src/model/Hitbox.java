@@ -2,7 +2,7 @@ package model;
  
 import playGame.FlappyBird;
   
-public class Hitbox { 
+public class Hitbox {  
     
     // Canto superior esquerdo (x0, y0) e 
     // inferior direito (x1, y1)
