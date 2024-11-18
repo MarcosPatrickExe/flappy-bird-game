@@ -8,7 +8,7 @@ import javax.imageio.ImageIO;
 import javax.swing.Icon;   
 import javax.swing.ImageIcon;   
 import javax.swing.JButton;  
-import javax.swing.SwingConstants; 
+import javax.swing.SwingConstants;  
 import playGame.FlappyBird.GameState;
 
 /**   
