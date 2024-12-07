@@ -1,6 +1,6 @@
 package model;  
         
-public interface Acao {  
+public interface Acao {   
     void executa();    
 }      
   
