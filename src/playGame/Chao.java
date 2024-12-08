@@ -25,3 +25,4 @@ class Chao implements IChao{
             this.X = x;
     }
 }
+ 
