@@ -23,6 +23,6 @@ class Chao implements IChao{
         
         if(FlappyBird.estadoJogo != GameState.GAMEOVER)
             this.X = x;
-    }
+    } 
 }
  
