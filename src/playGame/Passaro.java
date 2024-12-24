@@ -5,7 +5,7 @@ import model.IPassaro;
 import playGame.FlappyBird.GameState;
  
 /**
- * @author Patrick
+ * @author Patrick 
  */ 
   
 public class Passaro implements IPassaro{ 
