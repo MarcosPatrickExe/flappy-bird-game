@@ -9,7 +9,7 @@ public class Timer {
     
     public Timer(double limite, boolean repete, Acao acao) {
         this.limite = limite; 
-        this.acao = acao; 
+        this.acao = acao;  
         this.repete = repete; 
     }
      
