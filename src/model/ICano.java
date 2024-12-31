@@ -15,7 +15,7 @@ public interface ICano {
     
     static Cano criarCano(double largura, double altura, double velocidadeCano){
         return new Cano(largura+20.0, altura, -velocidadeCano);
-    };
+    }; 
     
     
     static void atualiza(ArrayList<Cano> canos, double dt){
