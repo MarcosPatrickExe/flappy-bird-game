@@ -12,7 +12,7 @@ public class Timer {
         this.acao = acao; 
         this.repete = repete; 
     }
-    
+     
 
     public void tique(double dt) {
         
