@@ -6,7 +6,7 @@ import playGame.Tela;
 abstract public class Jogo {
     abstract public String getTitulo();
     abstract public int getLargura();  
-    abstract public int getAltura();
+    abstract public int getAltura(); 
     abstract public void tique(double dt);
    // abstract public void tique(java.util.Set<String> teclas, double dt);
    // abstract public void tecla(String tecla);
