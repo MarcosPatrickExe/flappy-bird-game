@@ -12,3 +12,4 @@ abstract public class Jogo {
    // abstract public void tecla(String tecla);
     abstract public void desenhar(Tela tela);
 }
+ 
