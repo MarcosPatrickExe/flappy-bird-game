@@ -4,7 +4,7 @@ public class Timer {
     Acao acao;   
     final double limite;  
     final boolean repete;
-    double tempo = 0.0; 
+    double tempo = 0.0;  
     boolean fim = false;
     
     public Timer(double limite, boolean repete, Acao acao) {
