@@ -18,7 +18,7 @@ class Chao implements IChao{
             t.imagem(URLarquivo, 292, 0, 308, 112, 0, (308*2)-this.X, Chao.Y);
     } 
     
-    @Override 
+    @Override  
     public void atualiza(float x){
         
         if(FlappyBird.estadoJogo != GameState.GAMEOVER)
