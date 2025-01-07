@@ -9,7 +9,7 @@ class Chao implements IChao{
      
     private float X;
     protected static int Y = 0;
-   // protected int X0;//posicao inicial (no eixo X) de onde o "chao" será desenhado
+   // protected int X0;//posicao inicial (no eixo X) de onde o "chao" será desenhado 
     
     @Override
     public void desenhar(Tela t, String URLarquivo){
