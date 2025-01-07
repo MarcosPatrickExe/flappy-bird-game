@@ -20,7 +20,7 @@ class Chao implements IChao{
     
     @Override  
     public void atualiza(float x){
-        
+         
         if(FlappyBird.estadoJogo != GameState.GAMEOVER)
             this.X = x;
     } 
