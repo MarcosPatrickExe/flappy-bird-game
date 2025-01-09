@@ -1,5 +1,5 @@
 package model;
-import playGame.Tela; 
+import playGame.Tela;  
   
 /**
  * @author Patrick  
