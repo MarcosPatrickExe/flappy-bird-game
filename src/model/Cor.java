@@ -20,7 +20,7 @@ public class Cor{
         this.g = g;
         this.b = b;
     }  
-     
+      
     /*  
      * Cria uma cor dados os componentes entre 0 e 1
      */
