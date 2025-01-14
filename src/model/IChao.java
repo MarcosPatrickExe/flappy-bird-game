@@ -2,7 +2,7 @@ package model;
 import java.lang.String; 
 import playGame.Tela;   
     
-/** 
+/**  
  * @author Patrick 
  */
 public interface IChao {  
