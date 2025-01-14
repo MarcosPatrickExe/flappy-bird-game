@@ -24,7 +24,7 @@ public class Cor{
     /*  
      * Cria uma cor dados os componentes entre 0 e 1
      */
-    public static Cor rgb(double r, double g, double b) {
+    public static Cor rgb(double r, double g, double b) { 
         return Cor.rgb((int)(r*255), (int)(g*255), (int)(b*255)); 
     }
     
