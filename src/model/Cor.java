@@ -41,3 +41,4 @@ public class Cor{
     public static Cor VERMELHO = Cor.rgb(1.0, 0.0, 0.0);
     public static Cor VERDE = Cor.rgb(0.0, 1.0, 0.0);
 }
+ 
