@@ -40,7 +40,7 @@ import playGame.FlappyBird.GameState;
         super.setVisible(false);
     };
     
-    protected void exibirBotao(){
+    protected void exibirBotao(){ 
         super.setVisible(true);
     }
     */
