@@ -23,7 +23,7 @@ public class Hitbox {
     public void moverPassaro(double dy) {//movendo a hitbox do passaro 
         y0 = dy;
         y1 = y0+24.0;
-    }
+    } 
     
      
     public int intersecao(Hitbox obstaculo) {
