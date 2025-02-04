@@ -1,6 +1,6 @@
 package model;
  
-import playGame.FlappyBird;
+import playGame.FlappyBird; 
    
 public class Hitbox {  
     
