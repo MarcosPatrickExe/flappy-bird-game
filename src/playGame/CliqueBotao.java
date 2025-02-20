@@ -11,7 +11,7 @@ import javax.swing.JButton;
 import javax.swing.SwingConstants;   
 import playGame.FlappyBird.GameState; 
 
-/**   
+/**    
  * @author Patrick 
  */
 
