@@ -8,7 +8,7 @@ import model.ICano;
  
 /*   
  * @author Patrick
- */  
+ */   
 
 public class Cano implements ICano{
     
