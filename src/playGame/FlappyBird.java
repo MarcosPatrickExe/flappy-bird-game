@@ -1,7 +1,7 @@
 package playGame;
   
 import model.Acao; 
-import model.Jogo;
+import model.Jogo; 
 import model.Timer;
 import java.util.ArrayList;   
 import java.util.Set;  
