@@ -4,7 +4,7 @@ import java.util.HashMap;
   
 /** 
  * Cores em RGB  
- */
+ */ 
 public class Cor{
     public int r;  
     public int g;
