@@ -29,7 +29,7 @@ public class Cor{
     }
      
     public static Cor rgb(int r, int g, int b) {
-        int indice = (r << 16) | (g << 8) | b; 
+        int indice = (r << 16) | (g << 8) | b;  
         if(!cores.containsKey(indice)) {  
             cores.put(indice, new Cor(r, g, b)); 
         }
