@@ -27,7 +27,7 @@ public class Cor{
     public static Cor rgb(double r, double g, double b) { 
         return Cor.rgb((int)(r*255), (int)(g*255), (int)(b*255)); 
     }
-    
+     
     public static Cor rgb(int r, int g, int b) {
         int indice = (r << 16) | (g << 8) | b; 
         if(!cores.containsKey(indice)) {  
