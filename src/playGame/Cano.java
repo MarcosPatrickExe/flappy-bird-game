@@ -11,7 +11,7 @@ import model.ICano;
  */   
 
 public class Cano implements ICano{
-    
+     
     public double x, y;
     public final double vxCano;//velocidade do cano
     public static final int ENTRADA = 120;//tamanho do espaço entre os canos
