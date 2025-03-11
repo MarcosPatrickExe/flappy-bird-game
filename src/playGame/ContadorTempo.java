@@ -21,7 +21,7 @@ class ContadorTempo implements Runnable{
                 segundoAtual=i;
                 Thread.sleep(100);
             }
-        
+         
        }catch(InterruptedException ie){
            System.out.println("Erro na execução do cronômetro. Error descrition: "+ie.getMessage());
        }
