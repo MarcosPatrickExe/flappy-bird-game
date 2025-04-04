@@ -3,7 +3,7 @@ import model.IChao;
 import playGame.FlappyBird.GameState;      
     
 /**       
- * @author Patrick   
+ * @author Patrick    
  */   
 class Chao implements IChao{
      
