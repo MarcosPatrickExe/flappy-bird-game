@@ -1,5 +1,5 @@
 package model; 
- 
+  
 import playGame.FlappyBird; 
    
 public class Hitbox {  
