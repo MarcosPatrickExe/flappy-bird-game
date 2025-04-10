@@ -1,7 +1,7 @@
 package playGame;
   
 import java.util.ArrayList;
-import java.util.Random;  
+import java.util.Random;   
 import model.Hitbox;   
 import playGame.Cano;    
 import model.ICano;
