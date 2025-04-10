@@ -22,7 +22,7 @@ public class Cano implements ICano{
     
     public Cano(double x, double y, double vCano){
         this.x = x;
-        this.y = y;
+        this.y = y; 
         this.vxCano = vCano;
         
         this.boxCanoCima = new Hitbox(x, 0, x+52.0, y+270.0);// X, Y, largura, altura da hitbox do cano de cima
