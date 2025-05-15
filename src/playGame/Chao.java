@@ -5,7 +5,7 @@ import playGame.FlappyBird.GameState;
 /**       
  * @author Patrick    
  */      
-class Chao implements IChao{ 
+class Chao implements IChao{  
      
     private float X;
     protected static int Y = 0;
