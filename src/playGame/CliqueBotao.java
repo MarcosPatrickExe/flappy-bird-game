@@ -61,7 +61,14 @@ import playGame.FlappyBird.GameState;
              
      @Override
      public void mouseExited(MouseEvent e){ };
-     
+
+  
+     static protected void ajustarBotoes2(){ // metodo para teste de bug
+        Motor.start.setVisible(false);
+        Motor.OK.setVisible(false);
+        Motor.pause.setVisible(true);
+        Motor.play.setVisible(false);
+     }
      
      
      static protected void ajustarBotoes(){
