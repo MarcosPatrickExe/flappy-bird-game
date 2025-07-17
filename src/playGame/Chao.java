@@ -1,6 +1,10 @@
 package playGame;           
 import model.IChao;              
 import playGame.FlappyBird.GameState;         
+
+class Tete(){
+     private int num0 = 0;
+}
         
 /**         
  * @author Patrick     
