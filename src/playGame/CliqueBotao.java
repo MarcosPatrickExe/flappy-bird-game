@@ -16,6 +16,11 @@ import playGame.FlappyBird.GameState;
  please dont't change
  */
 
+class Arrive{
+  String nameArri_ = "";
+ 
+}
+
 //Botao is not abstract and does not override abstract method mouseExited() in MouseLitener
  abstract class CliqueBotao implements MouseListener{
     
