@@ -18,6 +18,7 @@ import playGame.FlappyBird.GameState;
 
 class Arrive{
   String nameArri_ = "";
+  int myIntNormal = 12;
  
 }
 
