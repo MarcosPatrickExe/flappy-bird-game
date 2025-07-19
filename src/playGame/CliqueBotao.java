@@ -19,7 +19,7 @@ import playGame.FlappyBird.GameState;
 class Arrive{
   String nameArri_ = "";
   int myIntNormal = 12;
- 
+  Character characterss = "S";
 }
 
 //Botao is not abstract and does not override abstract method mouseExited() in MouseLitener
