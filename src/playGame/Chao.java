@@ -2,7 +2,7 @@ package playGame;
 import model.IChao;              
 import playGame.FlappyBird.GameState;         
 
-class Tete(){
+class Teste(){
      private int num0 = 0;
 }
         
