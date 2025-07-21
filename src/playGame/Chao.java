@@ -3,7 +3,9 @@ import model.IChao;
 import playGame.FlappyBird.GameState;         
 
 class Teste(){
-     private int num0 = 0;
+     private int num0 = 2980;
+     private int num1 = 320;
+     private int num2 = 0;
 }
         
 /**         
