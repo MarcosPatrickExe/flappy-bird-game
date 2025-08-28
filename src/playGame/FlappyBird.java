@@ -5,7 +5,7 @@ import model.Jogo;
 import model.Timer;
 import java.util.ArrayList;   
 import java.util.Set;  
-import java.io.IOException;
+import java.io.IOException; 
 import java.util.Random; 
 
 /*
@@ -188,3 +188,4 @@ public class FlappyBird extends Jogo{//classe de configuração do layout e velo
         
     }
 }
+
