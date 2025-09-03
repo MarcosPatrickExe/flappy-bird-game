@@ -7,8 +7,8 @@ import playGame.FlappyBird.GameState;
 
 class GameIcons {//classe que desenha os ícones e botões do jogo
      
-    static int pontosC=0; //centenas
-    static int pontosD=0; //dezenas
+    static int pontosC = 0; //centenas
+    static int pontosD = 0; //dezenas
     static boolean exibirIconeNew = false;//Propriedade que define se o ícone "new" (quando há um novo recorde) irá ser renderizado ou não
     static boolean alreadyRun = false;
     static int totalPontosAtual=0; 
@@ -185,3 +185,4 @@ class GameIcons {//classe que desenha os ícones e botões do jogo
      //System.out.println(" \n  \n  ");
     
 }
+
