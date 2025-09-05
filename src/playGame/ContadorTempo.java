@@ -3,7 +3,6 @@ import java.lang.*;
    
 /**
  * @author Patrick   
- 
  */   
  
 class ContadorTempo implements Runnable{
@@ -29,4 +28,5 @@ class ContadorTempo implements Runnable{
        
     } 
 }
+
 
