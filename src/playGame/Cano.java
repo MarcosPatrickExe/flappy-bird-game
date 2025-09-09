@@ -7,8 +7,12 @@ import playGame.Cano;
 import model.ICano;
  
 /*   
- * @author Patrick 
+ * @author Patrick
  */   
+
+class Cano2{
+  private short shortt = 0;
+}
 
 public class Cano implements ICano{
      
@@ -44,4 +48,5 @@ public class Cano implements ICano{
          ICano.desenha(t, canos, urlImagem);
     }
 }
+
 
