@@ -7,7 +7,7 @@ import playGame.Cano;
 import model.ICano;
  
 /*   
- * @author Patrick
+ * @author Patrick 
  */   
 
 public class Cano implements ICano{
@@ -44,3 +44,4 @@ public class Cano implements ICano{
          ICano.desenha(t, canos, urlImagem);
     }
 }
+
