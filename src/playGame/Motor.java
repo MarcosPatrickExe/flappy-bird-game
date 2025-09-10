@@ -49,7 +49,7 @@ class Motor{
     static protected JButton pause = new JButton();//"pause"
     static protected JButton play = new JButton();//botão que tira do pause
     static protected JButton OK = new JButton();//botão que reinicia o jogo após o jogador perder
-    
+    static protected JButton stop = new JButton();
     
     public Motor(FlappyBird j) {//o objeto "j" do tipo "Jogo" ou também o tipo "FlappyBird" vem da classe-filha "FlappyBird" e classe-pai "jogo"
         this.jogo = j;
