@@ -14,7 +14,7 @@ import java.util.Random;
 
 public class FlappyBird extends Jogo{//classe de configuração do layout e velocidade dos canos e do chão do jogo
     
-    public enum GameState{ TELAINICIAL, TUTORIAL, JOGANDO, PAUSADO, GAMEOVER; }
+    public enum GameState{ TELAINICIAL, TUTORIAL, JOGANDO, PAUSADO, GAMEOVER; } // conjunto de valores
     
     private double chao_eixoX = 0;
     private final double gvx = 200.0;//velocidade do chao no eixoX, ou seja, 200px /s
@@ -188,5 +188,6 @@ public class FlappyBird extends Jogo{//classe de configuração do layout e velo
         
     }
 }
+
 
 
