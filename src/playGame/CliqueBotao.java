@@ -22,6 +22,12 @@ class Arrive{
   Character characterss = "S";
 }
 
+class MyVehicle{
+  String name = "";
+  String creationDate = "10/10/2000";
+  int chassi = 1232322;
+}
+
 //Botao is not abstract and does not override abstract method mouseExited() in MouseLitener
  abstract class CliqueBotao implements MouseListener{
     
@@ -212,3 +218,4 @@ class Arrive{
         
         canvas.addKeyListener(keyE);
      */
+
