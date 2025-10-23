@@ -58,7 +58,7 @@ public class FlappyBird extends Jogo{ // classe de configuração do layout e ve
         
       //EM VEZ DE USAR A "LAMBDA EXPRESSION" PODERIA TAMBÉM USAR UMA CLASSE ANÔNIMA PARA INSTANCIAR A INTERFACE:
       /*
-        return new Acao(){
+        return new Acao(){ 
             public void executa(){
                 //inserindo um novo objeto do tipo "cano" na lista de "Canos"
                 canos.add( Cano.criarCano(getLargura(), getAltura(), vCano) ); 
@@ -188,6 +188,7 @@ public class FlappyBird extends Jogo{ // classe de configuração do layout e ve
         
     }
 }
+
 
 
 
