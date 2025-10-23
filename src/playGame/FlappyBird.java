@@ -17,7 +17,7 @@ public class FlappyBird extends Jogo{ // classe de configuração do layout e ve
     public enum GameState{ TELAINICIAL, TUTORIAL, JOGANDO, PAUSADO, GAMEOVER; } // conjunto de valores para o enum  
     
     private double chao_eixoX = 0;
-    private final double gvx = 200.0; // velocidade do chao no eixoX, ou seja, 200px /s
+    private final double gvx = 200.0; // velocidade do chao no eixoX, ou seja, 200px 
     private final double vCano = 200.0; // velocidade dos canos horizontalmente
     protected static Passaro bird;
     private Chao chao;
@@ -188,6 +188,7 @@ public class FlappyBird extends Jogo{ // classe de configuração do layout e ve
         
     }
 }
+
 
 
 
