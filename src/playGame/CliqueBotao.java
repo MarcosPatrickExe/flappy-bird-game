@@ -17,7 +17,7 @@ import playGame.FlappyBird.GameState;
  */
 
 class Arrive{
-  String nameArri_ = "";
+  String nameArri_ = "teste";
   int myIntNormal = 12;
   Character characterss = "S";
 }
@@ -218,5 +218,6 @@ class MyVehicle{
         
         canvas.addKeyListener(keyE);
      */
+
 
 
