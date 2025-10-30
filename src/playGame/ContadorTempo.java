@@ -5,7 +5,7 @@ import java.lang.*;
  * @author Patrick    
  */   
  
-class ContadorTempo implements Runnable{
+class ContadorTempo implements Runnable{ 
     
     protected static int segundoAtual=0;
     
@@ -28,6 +28,7 @@ class ContadorTempo implements Runnable{
        
     } 
 }
+
 
 
 
