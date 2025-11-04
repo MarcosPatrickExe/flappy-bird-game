@@ -13,8 +13,8 @@ public class Passaro implements IPassaro{
     double vy = 0; //velocidade vertical
     private int angulacao = 0;
     
-    static final double G = 1000;//valor que sera multiplicado pela variavel 'dt' a cada frame
-    static final double FLAP = -350;//forca do "pulo" do passaro. Quanto menor o valor, menor a altura do "pulo"
+    static final double G = 1000; //valor que sera multiplicado pela variavel 'dt' a cada frame
+    static final double FLAP = -350; //forca do "pulo" do passaro. Quanto menor o valor, menor a altura do "pulo"
     private boolean frameAsaPraCima = false;
     
     protected Hitbox boxPassaro;
@@ -88,4 +88,5 @@ public class Passaro implements IPassaro{
 
  //link do codigo original:
  //https://www.dropbox.com/s/a2wy4bsskrpugq2/Flappy%20Bird.rar?dl=
+
 
