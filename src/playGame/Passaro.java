@@ -19,7 +19,7 @@ public class Passaro implements IPassaro {
     
     protected Hitbox boxPassaro;
     
-    Passaro(double x, double y){
+    Passaro( double x, double y ){
         this.x = x;
         this.y = y; 
         
@@ -88,6 +88,7 @@ public class Passaro implements IPassaro {
 
  //link do codigo original:
  //https://www.dropbox.com/s/a2wy4bsskrpugq2/Flappy%20Bird.rar?dl=
+
 
 
 
