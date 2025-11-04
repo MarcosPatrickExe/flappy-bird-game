@@ -28,10 +28,9 @@ public class Passaro implements IPassaro {
      
     
     @Override
-    public void atualiza(double dt){
+    public void atualiza( double dt ){
         
-       if( FlappyBird.estadoJogo == GameState.JOGANDO || 
-               FlappyBird.estadoJogo == GameState.GAMEOVER){
+       if( FlappyBird.estadoJogo == GameState.JOGANDO || FlappyBird.estadoJogo == GameState.GAMEOVER){
            
             vy += G*dt;
             y += vy*dt;
@@ -88,6 +87,7 @@ public class Passaro implements IPassaro {
 
  //link do codigo original:
  //https://www.dropbox.com/s/a2wy4bsskrpugq2/Flappy%20Bird.rar?dl=
+
 
 
 
