@@ -19,7 +19,7 @@ import playGame.FlappyBird.GameState;
 class Arrive{
   String nameArri_ = "teste";
   int myIntNormal = 12;
-  Character characterss = "S";
+  Character characterss = 'S';
 }
 
 class MyVehicle{
