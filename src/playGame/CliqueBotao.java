@@ -16,11 +16,7 @@ import playGame.FlappyBird.GameState;
  please dont't change
  */
 
-class Arrive{
-  String nameArri_ = "teste";
-  int myIntNormal = 12;
-  Character characterss = 'S';
-}
+
 
 class MyVehicle{
   String name = "";
