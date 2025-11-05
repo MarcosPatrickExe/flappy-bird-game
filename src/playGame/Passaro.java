@@ -25,6 +25,13 @@ public class Passaro implements IPassaro {
         
         this.boxPassaro = new Hitbox(x, y, x+34, y+24);
     }
+
+    Cano2( double x, double y ){
+        this.x = x;
+        this.y = y; 
+        
+        this.boxPassaro = new Hitbox(x, y, x+34, y+24);
+    }
      
     
     @Override
@@ -87,6 +94,7 @@ public class Passaro implements IPassaro {
 
  //link do codigo original:
  //https://www.dropbox.com/s/a2wy4bsskrpugq2/Flappy%20Bird.rar?dl=
+
 
 
 
