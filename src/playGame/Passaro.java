@@ -61,7 +61,7 @@ public class Passaro implements IPassaro {
     
     @Override
     public void desenhar(Tela tela, String urlImagem){
-        
+         
         //passaro parado (frame sem bater as asas):
         tela.imagem(urlImagem, 528, 180, 34, 24, Math.toRadians((double) this.angulacao), this.x, this.y);
         
@@ -86,6 +86,7 @@ public class Passaro implements IPassaro {
 
  //link do codigo original:
  //https://www.dropbox.com/s/a2wy4bsskrpugq2/Flappy%20Bird.rar?dl=
+
 
 
 
