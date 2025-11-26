@@ -12,7 +12,13 @@ import java.util.Random;
  * @author Patrick 
  */ 
 
-public class FlappyBird extends Jogo{ // classe de configuração do layout e velocidade dos canos e do chão do jogo
+/*
+   class Translet{
+      private String translet = "ABCQEH";
+   }
+*/
+
+public class FlappyBird extends Jogo{ // classe de configuração do layout e velocidade dos canos e do chão do jogo 
     
     public enum GameState{ TELAINICIAL, TUTORIAL, JOGANDO, PAUSADO, GAMEOVER; } // conjunto de valores para o enum  
     
@@ -188,6 +194,7 @@ public class FlappyBird extends Jogo{ // classe de configuração do layout e ve
         
     }
 }
+
 
 
 
