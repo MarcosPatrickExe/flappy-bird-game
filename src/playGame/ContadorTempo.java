@@ -8,6 +8,8 @@ import java.lang.*;
 class ContadorTempo implements Runnable{ 
     
     protected static int segundoAtual=0; 
+
+    private int idade = 23;
     
     ContadorTempo(){ 
        new Thread(this).start(); //iniciando o contador 
@@ -28,6 +30,7 @@ class ContadorTempo implements Runnable{
        
     } 
 }
+
 
 
 
