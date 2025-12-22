@@ -1,7 +1,7 @@
 package playGame;           
 import model.IChao;              
 import playGame.FlappyBird.GameState;         
-
+ 
 class Teste{
      private int num0 = 2980; 
      private int num1 = 320; 
@@ -32,6 +32,7 @@ class Chao implements IChao{
     } 
 }
  
+
 
 
 
