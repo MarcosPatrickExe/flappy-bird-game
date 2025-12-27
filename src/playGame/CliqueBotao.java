@@ -13,7 +13,6 @@ import playGame.FlappyBird.GameState;
 
 /**    
  * @author Patrick 
- please dont't change
  */
 
 
@@ -214,6 +213,7 @@ class MyVehicle{
         
         canvas.addKeyListener(keyE);
      */
+
 
 
 
