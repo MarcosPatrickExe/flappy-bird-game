@@ -15,7 +15,6 @@ import playGame.FlappyBird.GameState;
  * @author Patrick 
  */
 
-
 class MyVehicle {
   String name = "";
   String creationDate = "10/10/2000";
@@ -212,6 +211,7 @@ class MyVehicle {
         
         canvas.addKeyListener(keyE);
      */
+
 
 
 
