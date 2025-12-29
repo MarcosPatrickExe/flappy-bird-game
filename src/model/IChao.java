@@ -3,7 +3,7 @@ import java.lang.String;
 import playGame.Tela;   
     
 /**   
- * @author Patrick 
+ * @author Patrick
  */
 public interface IChao {  
      
@@ -11,3 +11,4 @@ public interface IChao {
 
     void atualiza(float x);  
 } 
+
