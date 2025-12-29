@@ -8,7 +8,7 @@ import playGame.Tela;
 public interface IChao {  
      
     void desenhar(Tela t, String URLarquivo);
-
     void atualiza(float x);  
 } 
+
 
