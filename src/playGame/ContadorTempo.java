@@ -2,7 +2,7 @@ package playGame;
 import java.lang.*;
    
 /**
- * @author Patrick    
+ *  @author Patrick    
  */   
  
 class ContadorTempo implements Runnable{ 
@@ -30,6 +30,7 @@ class ContadorTempo implements Runnable{
        
     } 
 }
+
 
 
 
