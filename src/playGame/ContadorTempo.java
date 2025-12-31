@@ -8,7 +8,6 @@ import java.lang.*;
 class ContadorTempo implements Runnable{ 
     
     protected static int segundoAtual=0; 
-
     private int idadeTeste = 23;
     
     ContadorTempo(){ 
@@ -30,6 +29,7 @@ class ContadorTempo implements Runnable{
        
     } 
 }
+
 
 
 
