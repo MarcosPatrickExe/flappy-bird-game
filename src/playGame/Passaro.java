@@ -10,7 +10,7 @@ import playGame.FlappyBird.GameState;
   
 public class Passaro implements IPassaro {  
     double x, y;
-    double vy = 0; //velocidade vertical
+    double vy = 0; //velocidade vertical do passaro
     private int angulacao = 0;
     
     static final double G = 1000; //valor que sera multiplicado pela variavel 'dt' a cada frame
@@ -86,6 +86,7 @@ public class Passaro implements IPassaro {
 
  //link do codigo original:
  //https://www.dropbox.com/s/a2wy4bsskrpugq2/Flappy%20Bird.rar?dl=
+
 
 
 
