@@ -3,7 +3,7 @@ import java.util.HashMap;
   
 /** 
  * @author Patrick
- */ 
+*/ 
 
 public class Cor{
     public int r;  
