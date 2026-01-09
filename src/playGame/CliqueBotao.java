@@ -12,7 +12,7 @@ import javax.swing.SwingConstants;
 import playGame.FlappyBird.GameState; 
 
 /**    
- * @author Patrick 
+ *  @author Patrick 
  */
 
 class MyVehicle {
@@ -211,6 +211,7 @@ class MyVehicle {
         
         canvas.addKeyListener(keyE);
      */
+
 
 
 
