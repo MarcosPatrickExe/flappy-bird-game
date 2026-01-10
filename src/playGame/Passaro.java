@@ -4,7 +4,7 @@ import playGame.Tela;
 import model.IPassaro; 
 import playGame.FlappyBird.GameState;
     
-/** 
+/**  
  * @author Patrick
 */ 
   
@@ -86,6 +86,7 @@ public class Passaro implements IPassaro {
 
  //link do codigo original:
  //https://www.dropbox.com/s/a2wy4bsskrpugq2/Flappy%20Bird.rar?dl=
+
 
 
 
