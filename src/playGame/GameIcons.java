@@ -1,7 +1,7 @@
 package playGame; 
 import playGame.FlappyBird.GameState;
  
-/**
+/** 
  * @author Patrick   
  */   
 
@@ -185,4 +185,5 @@ class GameIcons {//classe que desenha os ícones e botões do jogo
      //System.out.println(" \n  \n  ");
     
 }
+
 
