@@ -4,7 +4,6 @@ import playGame.FlappyBird.GameState;
 /** 
  * @author Patrick   
  */   
-
 class GameIcons {//classe que desenha os ícones e botões do jogo
      
     static int pontosC = 0; //centenas
@@ -185,5 +184,6 @@ class GameIcons {//classe que desenha os ícones e botões do jogo
      //System.out.println(" \n  \n  ");
     
 }
+
 
 
