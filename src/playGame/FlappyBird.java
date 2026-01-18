@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Set;  
 import java.io.IOException; 
 import java.util.Random; 
-
+ 
 /*
  * @author Patrick 
  */ 
@@ -188,6 +188,7 @@ public class FlappyBird extends Jogo{ // classe de configuração do layout e ve
         
     }
 }
+
 
 
 
