@@ -10,7 +10,7 @@ class Teste{
         
 /**         
  * @author Patrickk    
- */       
+*/       
 class Chao implements IChao{  
      
     private float X;
@@ -33,6 +33,7 @@ class Chao implements IChao{
  
 }
  
+
 
 
 
